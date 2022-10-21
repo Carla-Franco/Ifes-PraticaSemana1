@@ -13,3 +13,5 @@ comunicar com o profissional.
 ### Obs.: Foi usado as boas práticas mencionadas ao longo das aulas, incluindo a 
 ### preocupação com a semântica dos elementos HTML.
 
+### Esse projeto faz parte do curso de Desenvolvedor Web do programa Reprograme-se do
+### IFES - Instituto Federal do Espírito Santo
